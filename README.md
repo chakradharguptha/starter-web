@@ -7,5 +7,6 @@ purpose of the text
 ## deployment
 this is for deployment purpose
 ## how to contribute
+for contributuion purpose
 
 Sample website with plenty of files for demos
