@@ -11,3 +11,4 @@ this is for deployment purpose
 for contributuion purpose
 
 Sample website with plenty of files for demos
+all rights reserved
