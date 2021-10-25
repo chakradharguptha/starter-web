@@ -1,5 +1,6 @@
 # Starter Web Repo
-this is a simple website project for explaining git and github together adding a ;ine fir rebase
+this is a simple website project for explaining git and github together adding a ;ine fir rebase more changes
+
 ## introduction
 this is introduction part
 ## Purpose
